@@ -1,7 +1,9 @@
 <?php
 	
-	echo "hello world! este é meu nono arquivo";
 
-	echo "verificar ocorrencia";
+	echo "Ola mundo";
+
+	echo "agora esta correto";
+
 
 ?>
